@@ -27,11 +27,13 @@ chmod +x toolkit.sh
 
 3. Run using ./toolkit.sh
 
+#Screenshots
+
+![Output_01](https://github.com/user-attachments/assets/b0ff063f-f1fa-4a2c-a960-fb6054d75a79)
+![Output_02](https://github.com/user-attachments/assets/8875282a-3549-4927-a342-9752605a9544)
+![Output_03](https://github.com/user-attachments/assets/bbf94aeb-5849-46cc-a6d2-4d29f53f67e3)
+![Output_04](https://github.com/user-attachments/assets/96083b4c-b2ce-4c69-b603-b300ee31491e)
+
 💻 Why I Built This
 
-This project helped me understand:
-a. Linux command-line basics
-b. Bash scripting
-c. Log analysis
-d. System monitoring
-e. How SysAdmins and SOC analysts perform routine checks
+This project helped me understand: Linux command-line basics, Bash scripting, Log analysis, System monitoring, How SysAdmins and SOC analysts perform routine checks.
